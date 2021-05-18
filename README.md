@@ -16,7 +16,7 @@ This repo has all resources and road map to c programming .
  
  3.Road map of this language:
 
- 
+
  1)Introduction to C Programming :
  The course will first teach you about program flow and how programming languages work with data, so that you can understand the basic architecture behind programming with C. The course then moves on to the most important elements of programming in C. These will include overviews and explanations of how to use crucial C functions, methods and routines. All of this will be outlined in clear and simple language and gone through in a step-by-step manner.
 
@@ -31,5 +31,7 @@ This course begins by discussing statements and logic when programming in C. You
 
 
 for more resources 👉🏻 (https://alison.com/learning-path/c-programming)
+
 you tube tutorials 👉🏻 (https://youtu.be/Bz4MxDeEM6k)
+
                    👉🏻 (https://youtu.be/KJgsSFOSQv0)
