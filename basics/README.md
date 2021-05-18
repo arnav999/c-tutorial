@@ -2,33 +2,35 @@
 
 ## 1. Data types :
 
-      1.int : this data type stores interger value.
+ 1.int : this data type stores interger value.
 
-      2.char : this data type stores character value.
+ 2.char : this data type stores character value.
 
-      3.float : this data type stores decimal value.
+ 3.float : this data type stores decimal value.
 
-      4.double : this data type stores decimal value.
+ 4.double : this data type stores decimal value.
 
 ## 2. Bits of each data type :
-      1. int : 2 bytes.
 
-      2. char : 1 byte.
+ 1. int : 2 bytes.
 
-      3. float : 4 bytes.
+ 2. char : 1 byte.
 
-      4. double : 8 bytes.
+ 3. float : 4 bytes.
+
+ 4. double : 8 bytes.
 
 ## 3. Derived data types :
-      1. Arrays.
 
-      2. Pointers.
+ 1. Arrays.
 
-      3. Structures.
+ 2. Pointers.
 
-      4. Union.
+ 3. Structures.
 
-      5. Functions.
+ 4. Union.
+
+ 5. Functions.
 
 ## 4. Enumerated types :
 
