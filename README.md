@@ -31,6 +31,7 @@ This course begins by discussing statements and logic when programming in C. You
 
 
 for more resources 
+
                    👉🏻 (https://alison.com/learning-path/c-programming)
 
 you tube tutorials 
