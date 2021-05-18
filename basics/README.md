@@ -19,3 +19,23 @@
 
       4. double : 8 bytes.
 
+## 3. Derived data types :
+      1. Arrays.
+
+      2. Pointers.
+
+      3. Structures.
+
+      4. Union.
+
+      5. Functions.
+
+## 4. Enumerated types :
+
+They are again arithmetic types and they are used to define variables that can only assign certain discrete integer values throughout the program.
+
+
+## 5. void types :
+
+The type specifier void indicates that no value is available.
+
