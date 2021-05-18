@@ -30,8 +30,11 @@ C is a powerful system programming language and is commonly used to programme op
 This course begins by discussing statements and logic when programming in C. You will look into conditional flow statements and the mechanisms for control flow statements. You will learn that control flow is the order in which individual statements, instructions, or function cells are executed within a piece of software. You will also learn how to implement a simple IF statement in C and look into the other functions of the IF statements and logical operators.
 
 
-for more resources 👉🏻 (https://alison.com/learning-path/c-programming)
+for more resources 
+                   👉🏻 (https://alison.com/learning-path/c-programming)
 
-you tube tutorials 👉🏻 (https://youtu.be/Bz4MxDeEM6k)
+you tube tutorials 
+
+                   👉🏻 (https://youtu.be/Bz4MxDeEM6k)
 
                    👉🏻 (https://youtu.be/KJgsSFOSQv0)
