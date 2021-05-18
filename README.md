@@ -32,10 +32,12 @@ This course begins by discussing statements and logic when programming in C. You
 
 for more resources 
 
-                   👉🏻 (https://alison.com/learning-path/c-programming)
+
+👉🏻 https://alison.com/learning-path/c-programming
 
 you tube tutorials 
 
-                   👉🏻 (https://youtu.be/Bz4MxDeEM6k)
+👉🏻 (https://youtu.be/Bz4MxDeEM6k)
 
-                   👉🏻 (https://youtu.be/KJgsSFOSQv0)
+
+👉🏻 (https://youtu.be/KJgsSFOSQv0)
