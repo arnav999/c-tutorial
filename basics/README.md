@@ -103,3 +103,23 @@ That’s it. GCC is now installed on your system, and you can start using it.
 
 For refrence 👉🏻 : https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
 
+3) Windows :
+
+To install GCC on Windows, you need to install MinGW. To install MinGW, go to the MinGW homepage,
+
+👉🏻 http://www.minigw.org
+
+Download the latest version of the MinGW installation program, which should be named MinGW-<version>.exe.
+
+While installing Min GW, at a minimum, you must install gcc-core, gcc-g++, binutils, and the MinGW runtime, but you may wish to install more.
+
+Add the bin subdirectory of your MinGW installation to your PATH environment variable, so that you can specify these tools on the command line by their simple names.
+
+After the installation is complete, you will be able to run gcc, g++, ar, ranlib, dlltool, and several other GNU tools from the Windows command line.
+
+
+
+
+
+
+
