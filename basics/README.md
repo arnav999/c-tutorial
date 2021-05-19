@@ -46,5 +46,5 @@ The type specifier void indicates that no value is available.
 1) Mac os :
 
 To check weither clang complier is pre installed on your device run the below code in your terminal.
+
    clang --version
-   
