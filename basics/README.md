@@ -66,12 +66,12 @@ If you have GNU compiler installed on your machine, then it should print a messa
       Configured with: ../configure --prefix=/usr .......
       Thread model: posix
       gcc version 4.1.2 20080704 (Red Hat 4.1.2-46)
-
+      
 If GCC is not installed, then perform the steps below to install the GCC Compiler on linux
 
 1. Start by updating the packages list:
 
-      sudo apt update
+       sudo apt update
 
 2. Install the build-essential package by typing:
 
@@ -79,8 +79,9 @@ If GCC is not installed, then perform the steps below to install the GCC Compile
        
 2. Install the build-essential package by typing:
 
-      sudo apt install build-essential
- The command installs a bunch of new packages including gcc, g++ and make.
+       sudo apt install build-essential
+      
+The command installs a bunch of new packages including gcc, g++ and make.
 
 You may also want to install the manual pages about using GNU/Linux for development:
 
