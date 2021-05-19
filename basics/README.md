@@ -117,6 +117,8 @@ Add the bin subdirectory of your MinGW installation to your PATH environment var
 
 After the installation is complete, you will be able to run gcc, g++, ar, ranlib, dlltool, and several other GNU tools from the Windows command line.
 
+error testing commit 
+
 
 
 
