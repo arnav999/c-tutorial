@@ -41,10 +41,14 @@ They are again arithmetic types and they are used to define variables that can o
 
 The type specifier void indicates that no value is available.
 
-## 5. Set up :
+## 5. Installation :
 
 1) Mac os :
 
-To check weither clang complier is pre installed on your device run the below code in your terminal.
+If you use Mac OS X, the easiest way to obtain GCC is to download the Xcode development environment from Apple's web site and follow the simple installation instructions. Once you have Xcode setup, you will be able to use GNU compiler for C/C++.
+
+link for xcode setup 👉🏻 : https://learnappmaking.com/xcode-tutorial/
+
+To check weither clang complier is  installed on your device run the below code in your terminal.
 
     clang --version
