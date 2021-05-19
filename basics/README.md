@@ -41,3 +41,10 @@ They are again arithmetic types and they are used to define variables that can o
 
 The type specifier void indicates that no value is available.
 
+## 5. Set up :
+
+1) Mac os :
+
+To check weither clang complier is pre installed on your device run the below code in your terminal.
+   clang --version
+   
