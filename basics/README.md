@@ -76,4 +76,28 @@ If GCC is not installed, then perform the steps below to install the GCC Compile
 2. Install the build-essential package by typing:
 
        sudo apt install build-essential
+       
+2. Install the build-essential package by typing:
+
+      sudo apt install build-essential
+ The command installs a bunch of new packages including gcc, g++ and make.
+
+You may also want to install the manual pages about using GNU/Linux for development:
+
+      sudo apt-get install manpages-dev
+      
+3. To validate that the GCC compiler is successfully installed, use the gcc --version command which prints the GCC version:
+
+       gcc --version
+
+The default version of GCC available
+out put:
+
+       gcc (Ubuntu 7.4.0-1ubuntu1~18.04) 7.4.0
+       Copyright (C) 2017 Free Software Foundation, Inc.
+       This is free software; see the source for copying conditions.  There is NO
+       warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+       
+That’s it. GCC is now installed on your system, and you can start using it.
+
 
