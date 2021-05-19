@@ -52,3 +52,18 @@ link for xcode setup 👉🏻 : https://learnappmaking.com/xcode-tutorial/
 To check weither clang complier is  installed on your device run the below code in your terminal.
 
     clang --version
+
+2) UNIX/LINUX :
+
+If you are using Linux or UNIX, then check whether GCC is installed on your system by entering the following command from the command line 
+
+     $ gcc -v
+
+If you have GNU compiler installed on your machine, then it should print a message as follows
+
+      Using built-in specs.
+      Target: i386-redhat-linux
+      Configured with: ../configure --prefix=/usr .......
+      Thread model: posix
+      gcc version 4.1.2 20080704 (Red Hat 4.1.2-46)
+
