@@ -67,3 +67,13 @@ If you have GNU compiler installed on your machine, then it should print a messa
       Thread model: posix
       gcc version 4.1.2 20080704 (Red Hat 4.1.2-46)
 
+If GCC is not installed, then perform the steps below to install the GCC Compiler on linux
+
+1. Start by updating the packages list:
+
+      sudo apt update
+
+2. Install the build-essential package by typing:
+
+       sudo apt install build-essential
+
