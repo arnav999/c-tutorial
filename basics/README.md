@@ -101,4 +101,6 @@ out put:
        
 That’s it. GCC is now installed on your system, and you can start using it.
 
+For refrence 👉🏻 : https://linuxize.com/post/how-to-install-gcc-compiler-on-ubuntu-18-04/
+
 
