@@ -47,4 +47,4 @@ The type specifier void indicates that no value is available.
 
 To check weither clang complier is pre installed on your device run the below code in your terminal.
 
-   clang --version
+    clang --version
