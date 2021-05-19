@@ -71,7 +71,7 @@ If GCC is not installed, then perform the steps below to install the GCC Compile
 
 1. Start by updating the packages list:
 
-       sudo apt update
+      sudo apt update
 
 2. Install the build-essential package by typing:
 
