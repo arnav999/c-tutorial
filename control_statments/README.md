@@ -36,5 +36,19 @@ Control statements enable us to specify the flow of program control; ie, the ord
       {
        /* statement(s) will execute if the boolean expression is false */
       }
+   for more info 👉🏻 : https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm
 
+3) nested if
+It is always legal in C programming to nest if-else statements, which means you can use one if or else if statement inside another if or else if statement(s).
+
+    if( boolean_expression 1) {
+
+     /* Executes when the boolean expression 1 is true */
+      if(boolean_expression 2) {
+      /* Executes when the boolean expression 2 is true */
+      }
+    }
+
+   for more info 👉🏻 : https://www.tutorialspoint.com/cprogramming/nested_if_statements_in_c.htm
+ 
 
