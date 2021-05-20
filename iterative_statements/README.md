@@ -19,3 +19,8 @@ For loop is the most commonly used looping technique. The reason why it is so po
      {
       //body of loop
      }
+
+for more resources 👉🏻 : https://www.codingeek.com/tutorials/c-programming/for-loop-in-c-programming-language-iteration-statements/
+
+### 2) while loop
+
