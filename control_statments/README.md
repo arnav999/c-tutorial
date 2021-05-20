@@ -18,5 +18,7 @@ Control statements enable us to specify the flow of program control; ie, the ord
  An if statement consists of a Boolean expression followed by one or more statements.
 
   if(boolean_expression) {
+  
    /* statement(s) will execute if the boolean expression is true */
+   
 }
