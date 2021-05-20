@@ -23,7 +23,7 @@ Control statements enable us to specify the flow of program control; ie, the ord
    
     }
 
-for more info 👉🏻 : https://www.tutorialspoint.com/cprogramming/if_statement_in_c.htm
+    for more info 👉🏻 : https://www.tutorialspoint.com/cprogramming/if_statement_in_c.htm
 
 2) if else statment 
  An if statement can be followed by an optional else statement, which executes when the Boolean expression is false.
