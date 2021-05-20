@@ -4,5 +4,5 @@
 //main function "enter point of program"
 int main(){
   //print function for printing message
-  printf("hello world"\n);
+  printf("hello world\n");
 }
