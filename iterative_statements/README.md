@@ -15,7 +15,7 @@ Iteration statements are most commonly know as loops. Also the repetition proces
 
 For loop is the most commonly used looping technique. The reason why it is so popular is because it has all the three parts of the loop: initialization, test expression, update expression in the same line. 
 
-   for(initialization; test expression; update expression)
+    for(initialization; test expression; update expression)
 
      {
 
