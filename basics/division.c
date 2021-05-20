@@ -1,4 +1,4 @@
-//program to implement division of 2 numbers
+//program to implement quotient of 2 numbers
 #include<stdio.h>
 void main(){
   int a,b,c;

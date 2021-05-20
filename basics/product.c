@@ -7,3 +7,4 @@ void main(){
   //product of two numbers
   c = a*b;
   printf("product of %d and %d is %d",a,b,c);
+}
