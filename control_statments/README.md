@@ -14,7 +14,7 @@ Control statements enable us to specify the flow of program control; ie, the ord
 
 ## Decision making statments.
 
-1) if statment
+ ### 1) if statment
  An if statement consists of a Boolean expression followed by one or more statements.
 
      if(boolean_expression) {
@@ -25,7 +25,7 @@ Control statements enable us to specify the flow of program control; ie, the ord
 
     for more info 👉🏻 : https://www.tutorialspoint.com/cprogramming/if_statement_in_c.htm
 
-2) if else statment 
+### 2) if else statment 
  An if statement can be followed by an optional else statement, which executes when the Boolean expression is false.
 
      if(boolean_expression) {
@@ -38,7 +38,7 @@ Control statements enable us to specify the flow of program control; ie, the ord
       }
    for more info 👉🏻 : https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm
 
-3) nested if
+### 3) nested if
 It is always legal in C programming to nest if-else statements, which means you can use one if or else if statement inside another if or else if statement(s).
 
     if( boolean_expression 1) {
