@@ -15,8 +15,8 @@ int main(){
 
     switch (choice)
     {
-    //addition operation
-    case '+':
+        //addition operation
+        case '+':
         printf("you have chosen addition\n");
         printf("enter the value of a and b\n");
         scanf("%d%d",&a,&b);
