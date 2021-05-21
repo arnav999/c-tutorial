@@ -10,6 +10,7 @@ int main(){
     printf("enter '*' for multiplication function\n");
     printf("enter '/' for division function\n");
     printf("enter your choice\n");
+    //selection of choice
     scanf("%c",&choice);
 
     switch (choice)
