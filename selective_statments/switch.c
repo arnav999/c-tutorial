@@ -32,7 +32,8 @@ int main(){
         c = a-b;
         printf("difference of %d and %d is %d",a,b,c);
         break;
-
+            
+        //multiplication operation
         case '*':
         printf("you have chosen multiplication\n");
         printf("enter the value of a and b\n");
@@ -40,7 +41,8 @@ int main(){
         c = a*b;
         printf("product of %d and %d is %d",a,b,c);
         break;
-
+            
+       
         case '/':
         printf("you have chosen division\n");
         printf("enter the value of a and b\n");
