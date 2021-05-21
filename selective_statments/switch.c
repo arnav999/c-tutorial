@@ -23,7 +23,8 @@ int main(){
         c = a+b;
         printf("sum of %d and %d is %d",a,b,c);
         break;
-
+        
+        //subtraction operation
         case '-':
         printf("you have chosen subtraction\n");
         printf("enter the value of a and b\n");
