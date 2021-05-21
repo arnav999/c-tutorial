@@ -47,6 +47,7 @@ int main(){
         break;
     
     default:
+            printf("invalid selection");
         break;
     }
 }
