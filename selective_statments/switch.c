@@ -50,7 +50,8 @@ int main(){
         c = a/b;
         printf("quotient of %d and %d is %d",a,b,c);
         break;
-    
+            
+    //deafult statment
     default:
             printf("invalid selection");
         break;
