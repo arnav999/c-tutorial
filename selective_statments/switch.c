@@ -42,7 +42,7 @@ int main(){
         printf("product of %d and %d is %d",a,b,c);
         break;
             
-       
+        //division operation
         case '/':
         printf("you have chosen division\n");
         printf("enter the value of a and b\n");
