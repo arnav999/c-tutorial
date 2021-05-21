@@ -57,7 +57,7 @@ Nested-Switch statements refers to Switch statements inside of another Switch St
      // code to be executed if num 
      // doesn't match any cases
      default: 
-  }
+    }
   
   
      break;
@@ -74,7 +74,7 @@ Nested-Switch statements refers to Switch statements inside of another Switch St
   
      // code to be executed if n doesn't match any cases
      default: 
-  }
+    }
 
   for more resources 👉🏻 : https://www.geeksforgeeks.org/nested-switch-case/
 
