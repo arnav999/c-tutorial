@@ -1,4 +1,4 @@
-# iterative statments
+# Iterative statments
 
 Iteration statements are most commonly know as loops. Also the repetition process in C is done by using loop control instruction. 
 
