@@ -1,4 +1,4 @@
-# control statments
+# Control statments
 
 Control statements enable us to specify the flow of program control; ie, the order in which the instructions in a program must be executed.
 
