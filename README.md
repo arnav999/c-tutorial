@@ -1,4 +1,9 @@
 # C-tutorial
+
+
+![](https://github.com/arnav999/c-tutorial/blob/main/images/c-programming-569564.png)
+
+
 This repo has all resources and road map to c programming .
 
 
