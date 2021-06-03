@@ -56,6 +56,11 @@ As such, C programming does not provide direct support for error handling but be
 
 So a C programmer can check the returned values and can take appropriate action depending on the return value. It is a good practice, to set errno to 0 at the time of initializing a program. A value of 0 indicates that there is no error in the program.
 
+9)Memory management :
+This chapter explains dynamic memory management in C. The C programming language provides several functions for memory allocation and management. These functions can be found in the <stdlib.h> header file.
+
+10)
+
 
 for more resources 
 
