@@ -34,6 +34,11 @@ C is a powerful system programming language and is commonly used to programme op
 4)Statements and Logic :
 This course begins by discussing statements and logic when programming in C. You will look into conditional flow statements and the mechanisms for control flow statements. You will learn that control flow is the order in which individual statements, instructions, or function cells are executed within a piece of software. You will also learn how to implement a simple IF statement in C and look into the other functions of the IF statements and logical operators.
 
+5)Preprocessor in c :
+The C Preprocessor is not a part of the compiler, but is a separate step in the compilation process. In simple terms, a C Preprocessor is just a text substitution tool and it instructs the compiler to do required pre-processing before the actual compilation. We'll refer to the C Preprocessor as CPP.
+
+All preprocessor commands begin with a hash symbol (#). It must be the first nonblank character, and for readability, a preprocessor directive should begin in the first column. The following section lists down all the important preprocessor directives.
+
 
 for more resources 
 
